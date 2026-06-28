@@ -6,7 +6,7 @@ AI-native productivity workspace — a portfolio project combining **Notion-styl
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**[Live Demo](#)** · Replace with your Vercel URL after deploy
+**[Live Demo](https://neuratask.vercel.app)**
 
 ---
 
