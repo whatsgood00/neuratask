@@ -6,7 +6,7 @@ AI-native productivity workspace — a portfolio project combining **Notion-styl
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-**[Live Demo](https://neuratask.vercel.app)**
+**[Live Demo](https://neuratask.vercel.app)** · **[GitHub](https://github.com/whatsgood00/neuratask)**
 
 ---
 
@@ -47,7 +47,7 @@ NeuraTask is a full-featured productivity web app built as a frontend portfolio 
 ### Install & run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/neuratask.git
+git clone https://github.com/whatsgood00/neuratask.git
 cd neuratask
 npm install
 npm run dev
